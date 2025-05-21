@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="Polly.Ricardo" language="pt-BR">
+    ATENÇÃO. UM ALARME DE ALTA CRITICIDADE FOI ATIVADO.
+    ACESSE O PAINEL DE MONITORAMENTO O MAIS RÁPIDO POSSÍVEL PARA OBTER MAIS INFORMAÇÕES.
+  </Say>
+</Response>
